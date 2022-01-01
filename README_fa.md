@@ -1,3 +1,3 @@
 # test
-testing translation
-[README_fa](README_fa.md)
+تست ترجمه
+[README_en](README.md)
